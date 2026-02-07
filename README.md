@@ -27,3 +27,4 @@
 
 ### 目前存在的问题
 1. 切歌，双击播放和点击选中播放时需要拖动一下进度条才能正常播放
+<img width="2560" height="1440" alt="screenshot 2026-02-06 223616" src="https://github.com/user-attachments/assets/45a314aa-531d-4a2c-86ed-601b54e0abbb" />
