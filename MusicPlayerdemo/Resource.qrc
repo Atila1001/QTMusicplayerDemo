@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/109951167817024864.png</file>
+        <file>Resource/icons8-play-50.png</file>
+        <file>Resource/icons8-end-64.png</file>
+        <file>Resource/icons8-hold-64.png</file>
+        <file>Resource/open_folder_pbbzqmr36ph0_64.png</file>
+        <file>Resource/icons8-volume-64.png</file>
+        <file>Resource/previous_cs6ny2fcfiq4_64.png</file>
+        <file>Resource/icons8-mute-64.png</file>
+        <file>Resource/icons8-repeat-50.png</file>
+        <file>Resource/icons8-repeat-one-50.png</file>
+        <file>Resource/icons8-shuffle-50.png</file>
+        <file>Resource/icons8-lyrics-48.png</file>
+    </qresource>
+</RCC>
